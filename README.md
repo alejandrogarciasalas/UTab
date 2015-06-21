@@ -1,2 +1,2 @@
 # UTab
-A google chrome new tab extension that uses the apps U use
+A new tab replacement composed by the apps U use
